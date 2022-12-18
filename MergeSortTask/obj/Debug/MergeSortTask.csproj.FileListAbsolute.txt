@@ -1,0 +1,8 @@
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\bin\Debug\MergeSortTask.exe.config
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\bin\Debug\MergeSortTask.exe
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\bin\Debug\MergeSortTask.pdb
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\obj\Debug\MergeSortTask.csproj.AssemblyReference.cache
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\obj\Debug\MergeSortTask.csproj.SuggestedBindingRedirects.cache
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\obj\Debug\MergeSortTask.csproj.CoreCompileInputs.cache
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\obj\Debug\MergeSortTask.exe
+D:\hdd2\COLLEGE\Algorithms\MergeSortTask\obj\Debug\MergeSortTask.pdb

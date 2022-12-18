@@ -1,0 +1,11 @@
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\bin\Debug\Insertion-Sort-Task.exe.config
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\bin\Debug\Insertion-Sort-Task.exe
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\bin\Debug\Insertion-Sort-Task.pdb
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.csproj.AssemblyReference.cache
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.csproj.SuggestedBindingRedirects.cache
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion_Sort_Task.Form1.resources
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion_Sort_Task.Properties.Resources.resources
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.csproj.GenerateResource.cache
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.csproj.CoreCompileInputs.cache
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.exe
+D:\hdd2\COLLEGE\Algorithms\Insertion-Sort-Task\obj\Debug\Insertion-Sort-Task.pdb

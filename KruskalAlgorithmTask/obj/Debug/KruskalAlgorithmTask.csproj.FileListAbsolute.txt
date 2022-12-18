@@ -1,0 +1,8 @@
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\bin\Debug\KruskalAlgorithmTask.exe.config
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\bin\Debug\KruskalAlgorithmTask.exe
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\bin\Debug\KruskalAlgorithmTask.pdb
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\obj\Debug\KruskalAlgorithmTask.csproj.AssemblyReference.cache
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\obj\Debug\KruskalAlgorithmTask.csproj.SuggestedBindingRedirects.cache
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\obj\Debug\KruskalAlgorithmTask.csproj.CoreCompileInputs.cache
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\obj\Debug\KruskalAlgorithmTask.exe
+D:\hdd2\COLLEGE\Algorithms\KruskalAlgorithmTask\obj\Debug\KruskalAlgorithmTask.pdb
